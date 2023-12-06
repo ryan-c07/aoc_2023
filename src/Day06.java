@@ -1,4 +1,4 @@
-public class DaySix {
+public class Day06 {
     public static void main(String[] args) {
         long held = 0;
         long time;
