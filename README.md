@@ -51,12 +51,13 @@ Welcome to my solutions for [Advent of Code 2023](https://adventofcode.com/2023)
 1. Clone this repository:
    ```bash
    git clone https://github.com/ryan-c07/aoc_2023.git
-   
+   ```
 2. Navigate to the folder:
    ```bash
    cd aoc_2023/src
-   
+   ```
 3. Execute the solution ( specific day ):
    ```bash
    javac Day01.java
    java Day01
+   ```
